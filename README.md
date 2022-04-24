@@ -1,15 +1,9 @@
-# Basic Sample Hardhat Project
+# Учебный проект
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Minting an NFTs(чеканка NFT), процесс публикации уникальных экземпляров erc-721 токенов в блокчейн.
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Технологии: JavaScript, Solidity
+
+
+https://testnets.opensea.io/assets/0xf547192bc3f564f35735bb3de292e85709f81051/1
